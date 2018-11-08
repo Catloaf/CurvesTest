@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7307a84f19f977d4b88553e9f97a5efa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splinePath: {instanceID: 0}
+  - limonade: {fileID: 21300000, guid: 77f850a309727cf4ba79fec68295b0fb, type: 3}
+  - mf: {instanceID: 0}
+  - mr: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
